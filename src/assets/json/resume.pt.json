@@ -1,0 +1,214 @@
+{
+  "profile": {
+    "name": "Muhammad Rizki Syahputra",
+    "job": "Fullstack Web Developer, Bug Hunter, & Barista",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "Im a Fullstack Web Developer with Laravel, and React JS.",
+    "socialNetwork": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/madriztra"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/madriztra"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shinkilofi"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "Muhammad Rizki Syahputra",
+    "url": "https://drive.google.com/file/d/1UNXF1NbXgt_-G-m4CNHoY673Nr0eo7lP/view?usp=sharing"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Email",
+      "value": "madriztra@gmail.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "Birthday",
+      "value": "11 September 2004"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number",
+      "value": "+62 831-9850-5209"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Worktype",
+      "value": "Remote or Fulltime"
+    }
+  ],
+  "skill": [
+    "JavaScript",
+    "Vue",
+    "CSS",
+    "Tailwindcss",
+    "PHP",
+    "Laravel",
+    "Bootstrap",    
+    "HTML",
+    "Git",
+    "Windows",
+    "Insomnia"
+  ],
+  "language": [
+    {
+      "name": "English",
+      "code": "pt-BR",
+      "flag": "svg/united-states.svg",
+      "level": "Amateur"
+    },
+    {
+      "name": "Indonesia",
+      "code": "en-US",
+      "flag": "svg/indonesia.svg",
+      "level": "Intermediate"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Barista",
+      "company": "Konco Coffee",
+      "companyLogo": "img/company/co-chair.jpg",
+      "location": "Indonesia",
+      "workType": "Fulltime",
+      "start": "Jan 2022",
+      "end": "Jun 2022",
+      "description": "I worked as a barista at Konco Coffee and that made me add to my initial experience as a beginner barista.."
+    },
+    {
+      "job": "Penetration Testing",
+      "company": "MAN 1 INDRAGIRI HILIR",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "Indonesia",
+      "workType": "Fulltime",
+      "start": "Dec 2020",
+      "end": "Mar 2021",
+      "description": "I helped to secure my school's website, by doing pentesting on all subdomains, and it took a long time, because I had to secure the network and system security on the website and application."
+    }
+  ],
+  "education": [
+    {
+      "college": "Universitas Islam Riau",
+      "collegeLogo": "img/college/uir.png",
+      "course": "Informathics Engineering",
+      "start": "2022",
+      "end": "Current",
+      "url": "https://uir.ac.id/"
+    },
+    {
+      "college": "Man 1 Indragiri Hilir",
+      "collegeLogo": "img/college/man.png",
+      "course": "Social Science",
+      "start": "2019",
+      "end": "2022",
+      "url": "https://man1inhil.sch.id/"
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Team Pentesting",
+      "company": "MAN 1 INDRAGIRI HILIR",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "Indonesia",
+      "workType": "Remote",
+      "start": "2020",
+      "end": "2021",
+      "description": "I helped to secure my school's website, by doing pentesting on all subdomains, and it took a long time, because I had to secure the network and system security on the website and application."
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2000",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+    },
+    {
+      "course": "Microsoft 365 Fundamentals",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2001",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2002",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+    },
+    {
+      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2003",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+    },
+    {
+      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2004",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Developer Associate (AZ-204)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2005",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+    },
+    {
+      "course": "Work Smarter with Microsoft Excel",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2006",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+    }
+  ],
+  "project": [
+    {
+      "name": "KPU Tebing Tinggi",
+      "description": "I helped secure the Tebing Tinggi KPU website when the election was about to be held and with BSSN permission.",
+      "language": "Bug Hunting / Penetration Testing",
+      "image": "img/company/bssn.jpeg",
+      "stars": "+138k",
+      "forks": "23.8k",
+      "url": "https://github.com/madriztra"
+    },
+    {
+      "name": "Mahkamah Konstitusi Republik Indonesia",
+      "description": "I helped secure the MKRI Website from SQL Injection and XSS attacks, then I reported it to BSSN.",
+      "language": "Bug Hunting / Penetration Testing",
+      "image": "img/company/mkri.png",
+      "stars": "+85.3k",
+      "forks": "11.1k",
+      "url": "https://github.com/madriztra"
+    }
+  ]
+}
